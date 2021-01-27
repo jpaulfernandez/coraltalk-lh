@@ -67,7 +67,7 @@ This is some inline-code: `echo something`
 <script type="text/javascript">
   (function() {
       var d = document, s = d.createElement('script');
-      s.src = 'http://coral-talk.rappler.com/assets/js/embed.js';
+      s.src = 'https://cdn.jsdelivr.net/gh/jpaulfernandez/cxensereco/coral.embed.js';
       s.async = false;
       s.defer = true;
       s.onload = function() {
